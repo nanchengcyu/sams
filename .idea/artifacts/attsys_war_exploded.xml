@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="attsys:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/attsys_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="attsys" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="attsys/web/Web" />
+    </root>
+  </artifact>
+</component>
